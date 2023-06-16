@@ -19,5 +19,5 @@ int main(void)
 	}
 	putchar('\n');
 
-	return (0);
+8-print_base16.c	return (0);
 }
