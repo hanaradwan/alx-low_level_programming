@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - Entry point
  *
- * Description: print a - z in reverse
+ * Description: print a-z in reverse
  *
  * Return: Always 0 (success)
 */
@@ -18,6 +18,5 @@ int main(void)
 		ch--;
 	}
 	putchar('\n');
-
-8-print_base16.c	return (0);
+	return (0);
 }
