@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	chat str[] = "_putchar";
+	char str[] = "_putchar";
 	int ch;
 
 	for (ch = 0; ch < 8; ch++)
