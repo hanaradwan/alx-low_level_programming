@@ -4,7 +4,7 @@
 /**
  *print_chessboard - Entry point
  *
- *@a: array
+ *@a: rows
  *
  *Return: Always 0 (Success)
  */
