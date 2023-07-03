@@ -5,7 +5,7 @@
  *print_chessboard - Entry point
  *@a: row
  *Return: nothing
- */
+*/
 void print_chessboard(char (*a)[8])
 {
 	int itr, jtr;
